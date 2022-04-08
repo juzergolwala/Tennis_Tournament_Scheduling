@@ -1,4 +1,4 @@
-Project part of CSE 202: Algorithm Design and Analysis (University of California San Diego)
+Project part of the course CSE 202: Algorithm Design and Analysis (University of California San Diego)
 
 Studied various optimization algorithms which can be utilized to solve real-world problems. For our project, we chose to find an optimal schedule of tennis matches which would maximize the revenue earned based on the player popularity.
 
