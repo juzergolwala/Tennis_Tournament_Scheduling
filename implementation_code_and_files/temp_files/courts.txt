@@ -1,0 +1,8 @@
+Arthur Ashe,50000,500
+Rod Laver Arena,25000,445
+Philippe Chatrier,20000,400
+Centre Court,25000,1000
+Melbourne Park Arena,10000,350
+Margaret Court Arena,7500,300
+Louis Armstrong Stadium, 5000,250
+Suzanne Lenglen,4000,200
